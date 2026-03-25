@@ -1,22 +1,20 @@
-# Sales Analysis
 
-
-## Overview
+# Overview
 
 This project is a complete end-to-end analysis of customer behavior using SQL. The dataset was provided as part of an online intermediate SQL learning resource, and the goal of the project was to strengthen analytical skills by applying real business-style techniques rather than just practicing syntax.
 
 The project includes original SQL queries, visualizations, business insights, and strategic recommendations. The aim was not only to calculate results, but to interpret them in a business context—simulating real-world decision-making. This also helped reinforce skills in joins, window functions, grouping, and CTE-based analysis.
 
-## Business Questions
+# Business Questions
 The analysis covers three core areas commonly used in real-world analytics:
 1. **Customer Segmentation**: Who are our most valuable customers?
 2. **Cohort Analysis**: How do different customer groups generate revenue?
 3. **Retention Analysis**: Who hasn't purchased recently?
 
-## Tools Used
-- PostgreSQL
-- VS Code
+# Tools Used
+- SQL (PostgreSQL)
 - Python (Seaborn, Matplotlib)
+- VS Code
 - GitHub
 
 <br>
