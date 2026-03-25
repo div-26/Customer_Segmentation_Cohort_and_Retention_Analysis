@@ -115,3 +115,5 @@ Analyze retention by product category, channel, and acquisition journey. Retire 
 
 # Conclusion
 This analysis highlights structural churn issues and an over‑dependence on acquisition rather than loyalty. While the business generates strong customer inflow, revenue sustainability depends on improving repeat purchase behavior and retention strategies. Even modest improvements in retention would have a disproportionately positive impact on revenue and long‑term customer value.
+
+
