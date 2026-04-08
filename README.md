@@ -1,7 +1,9 @@
 
 # Overview
 
-This project is a complete end-to-end analysis of customer behavior using SQL. The dataset was provided as part of an online intermediate SQL learning resource, and the goal of the project was to strengthen analytical skills by applying real business-style techniques rather than just practicing syntax.
+This project is a complete end-to-end analysis of customer behavior using SQL. The goal of the project was to strengthen analytical skills by applying real business-style techniques rather than just practicing syntax.
+
+The dataset used for analysis is derived from Microsoft Contoso Dataset, which simulates real world retail and sales data.
 
 The project includes original SQL queries, visualizations, business insights, and strategic recommendations. The aim was not only to calculate results, but to interpret them in a business context—simulating real-world decision-making. This also helped reinforce skills in joins, window functions, grouping, and CTE-based analysis.
 
