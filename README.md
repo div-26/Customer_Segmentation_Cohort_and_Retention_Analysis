@@ -1,4 +1,3 @@
-
 # Overview
 
 This project is a complete end-to-end analysis of customer behavior using SQL. The goal of the project was to strengthen analytical skills by applying real business-style techniques rather than just practicing syntax.
@@ -29,7 +28,8 @@ The analysis covers three core areas commonly used in real-world analytics:
 
 **Query**: [1_customer_segmentation.sql](/1_customer_segmentation.sql)
 
-**Visualization**: ![Customer_Segmentation](/images/LTV%20Distribution%20by%20Customer%20Segment.png)
+**Visualization**:
+![Customer_Segmentation](/images/LTV%20Distribution%20by%20Customer%20Segment.png)
 
 ### **Key Findings:**
 1. High-value customers generate nearly two-thirds of total revenue, contributing over $135M in LTV despite being the same size as the low-value segment.
@@ -52,7 +52,8 @@ The analysis covers three core areas commonly used in real-world analytics:
 
 **Query**: [2_cohort_analysis.sql](/2_Cohort%20rev_per_customer.sql)
 
-**Visualization**: ![Cohort_Analysis](/images/Average%20Revenue%20per%20Customer%20by%20Cohort%20Year.png)
+**Visualization**: 
+![Cohort_Analysis](/images/Average%20Revenue%20per%20Customer%20by%20Cohort%20Year.png)
 
 ### **Key Findings:**
 1. **Highest-Value Cohorts (2016–2017):**
@@ -82,7 +83,8 @@ Although some years (such as 2018, 2019, and 2022) achieved high total revenue, 
 
 **Query**: [3_retention_analysis.sql](/3_retention_analysis.sql)
 
-**Visualization**: ![Retention_Analysis](/images/Customer%20Status%20Percentage%20by%20Cohort%20Year.png)
+**Visualization**: 
+![Retention_Analysis](/images/Customer%20Status%20Percentage%20by%20Cohort%20Year.png)
 
 ### **Key Findings:**
 1. **Consistently high churn across all cohorts (2015–2023):** In every cohort, roughly 89–92% of customers are classified as churned, with only about 8–11% remaining active.
@@ -91,7 +93,7 @@ Although some years (such as 2018, 2019, and 2022) achieved high total revenue, 
 4. **Business growth is driven by acquisition rather than loyalty:** Given the uniformly high churn, revenue is heavily dependent on continuously acquiring new customers instead of building a large base of long-term repeat buyers.
 
 
-### **Business Insights & Strategic Recommendations**
+### **Business Insights**
 
 1. **Growth is driven by new customers rather than loyalty. This model is fragile and expensive.**
 Shift focus toward retention, lifecycle marketing, referrals, and CRM (customer relationship management) strategies.
